@@ -4,5 +4,6 @@ public enum StatusConsulta {
     PACIENTE_AUSENTE,
     MEDICO_CANCELOU,
     AGENDADA,
-    PLANO_NAO_AUTORIZOU
+    PLANO_NAO_AUTORIZOU,
+    REALIZADA
 }
